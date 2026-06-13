@@ -1,483 +1,483 @@
 {
-    "CATEGORY ": {
-        "electricity": "444xxxx",
-        "food": "10xxxxx",
-        "medicine": "110xxx",
-        "fuel": "220xxx",
-        "tools": "300xxx",
-        "furniture": "311xxx",
-        "clothing": "500xxx",
-        "currency": "IDR"
+  "CATEGORY": {
+    "electricity": "444000",
+    "food": "100000",
+    "medicine": "110000",
+    "fuel": "220000",
+    "tools": "300000",
+    "furniture": "311000",
+    "clothing": "500000",
+    "currency": "IDR"
+  },
+  "shirt": {
+    "Brand": {
+      "Nike": {
+        "id": "500001",
+        "price": 500000,
+        "stock": 50,
+        "type": "sports shirt",
+        "unit": "pcs"
+      },
+      "Adidas": {
+        "id": "500002",
+        "price": 450000,
+        "stock": 30,
+        "type": "casual shirt",
+        "unit": "pcs"
+      },
+      "Uniqlo": {
+        "id": "500003",
+        "price": 300000,
+        "stock": 100,
+        "type": "basic shirt",
+        "unit": "pcs"
+      }
     },
-    "shirt": {
-        "Brand": {
-            "Nike": {
-                "id": "500001",
-                "price": 500000,
-                "stock": 50,
-                "type": "sports shirt",
-                "unit": "pcs"
-            },
-            "Adidas": {
-                "id": "500002",
-                "price": 450000,
-                "stock": 30,
-                "type": "casual shirt",
-                "unit": "pcs"
-            },
-            "Uniqlo": {
-                "id": "500003",
-                "price": 300000,
-                "stock": 100,
-                "type": "basic shirt",
-                "unit": "pcs"
-            }
-        },
-        "description": "A garment worn on the upper body, typically with sleeves and a collar.",
-        "category": "clothing"
+    "description": "A garment worn on the upper body, typically with sleeves and a collar.",
+    "category": "clothing"
+  },
+  "shoes": {
+    "Brand": {
+      "Nike": {
+        "id": "500004",
+        "price": 1000000,
+        "stock": 20,
+        "type": "running shoes",
+        "unit": "pcs"
+      },
+      "Adidas": {
+        "id": "500005",
+        "price": 900000,
+        "stock": 15,
+        "type": "casual shoes",
+        "unit": "pcs"
+      },
+      "Puma": {
+        "id": "500006",
+        "price": 800000,
+        "stock": 25,
+        "type": "training shoes",
+        "unit": "pcs"
+      }
     },
-    "shoes": {
-        "Brand": {
-            "Nike": {
-                "id": "500004",
-                "price": 1000000,
-                "stock": 20,
-                "type": "running shoes",
-                "unit": "pcs"
-            },
-            "Adidas": {
-                "id": "500005",
-                "price": 900000,
-                "stock": 15,
-                "type": "casual shoes",
-                "unit": "pcs"
-            },
-            "Puma": {
-                "id": "500006",
-                "price": 800000,
-                "stock": 25,
-                "type": "training shoes",
-                "unit": "pcs"
-            }
-        },
-        "description": "Footwear designed for various activities, providing comfort and protection.",
-        "category": "clothing"
+    "description": "Footwear designed for various activities, providing comfort and protection.",
+    "category": "clothing"
+  },
+  "Jeans": {
+    "Brand": {
+      "Levi's": {
+        "id": "500007",
+        "price": 700000,
+        "stock": 40,
+        "type": "denim jeans",
+        "unit": "pcs"
+      },
+      "Wrangler": {
+        "id": "500008",
+        "price": 650000,
+        "stock": 30,
+        "type": "casual jeans",
+        "unit": "pcs"
+      },
+      "Lee": {
+        "id": "500009",
+        "price": 600000,
+        "stock": 50,
+        "type": "straight-leg jeans",
+        "unit": "pcs"
+      }
     },
-    "Jeans": {
-        "Brand": {
-            "Levi's": {
-                "id": "500007",
-                "price": 700000,
-                "stock": 40,
-                "type": "denim jeans",
-                "unit": "pcs"
-            },
-            "Wrangler": {
-                "id": "500008",
-                "price": 650000,
-                "stock": 30,
-                "type": "casual jeans",
-                "unit": "pcs"
-            },
-            "Lee": {
-                "id": "500009",
-                "price": 600000,
-                "stock": 50,
-                "type": "straight-leg jeans",
-                "unit": "pcs"
-            }
-        },
-        "description": "A type of pants made from denim fabric, often worn for casual occasions.",
-        "category": "clothing"
+    "description": "A type of pants made from denim fabric, often worn for casual occasions.",
+    "category": "clothing"
+  },
+  "T-shirt": {
+    "Brand": {
+      "H&M": {
+        "id": "500010",
+        "price": 200000,
+        "stock": 100,
+        "type": "basic T-shirt",
+        "unit": "pcs"
+      },
+      "Zara": {
+        "id": "500011",
+        "price": 250000,
+        "stock": 80,
+        "type": "fashion T-shirt",
+        "unit": "pcs"
+      },
+      "Uniqlo": {
+        "id": "500012",
+        "price": 150000,
+        "stock": 120,
+        "type": "graphic T-shirt",
+        "unit": "pcs"
+      }
     },
-    "T-shirt": {
-        "Brand": {
-            "H&M": {
-                "id": "500010",
-                "price": 200000,
-                "stock": 100,
-                "type": "basic T-shirt",
-                "unit": "pcs"
-            },
-            "Zara": {
-                "id": "500011",
-                "price": 250000,
-                "stock": 80,
-                "type": "fashion T-shirt",
-                "unit": "pcs"
-            },
-            "Uniqlo": {
-                "id": "500012",
-                "price": 150000,
-                "stock": 120,
-                "type": "graphic T-shirt",
-                "unit": "pcs"
-            }
-        },
-        "description": "A casual shirt with short sleeves and a round neckline.",
-        "category": "clothing"
+    "description": "A casual shirt with short sleeves and a round neckline.",
+    "category": "clothing"
+  },
+  "Jacket": {
+    "Brand": {
+      "North Face": {
+        "id": "500013",
+        "price": 1500000,
+        "stock": 20,
+        "type": "outdoor jacket",
+        "unit": "pcs"
+      },
+      "Columbia": {
+        "id": "500014",
+        "price": 1200000,
+        "stock": 25,
+        "type": "waterproof jacket",
+        "unit": "pcs"
+      },
+      "Patagonia": {
+        "id": "500015",
+        "price": 1800000,
+        "stock": 15,
+        "type": "insulated jacket",
+        "unit": "pcs"
+      }
     },
-    "Jacket": {
-        "Brand": {
-            "North Face": {
-                "id": "500013",
-                "price": 1500000,
-                "stock": 20,
-                "type": "outdoor jacket",
-                "unit": "pcs"
-            },
-            "Columbia": {
-                "id": "500014",
-                "price": 1200000,
-                "stock": 25,
-                "type": "waterproof jacket",
-                "unit": "pcs"
-            },
-            "Patagonia": {
-                "id": "500015",
-                "price": 1800000,
-                "stock": 15,
-                "type": "insulated jacket",
-                "unit": "pcs"
-            }
-        },
-        "description": "A garment worn over other clothes for warmth or protection against the elements.",
-        "category": "clothing"
+    "description": "A garment worn over other clothes for warmth or protection against the elements.",
+    "category": "clothing"
+  },
+  "Hat": {
+    "Brand": {
+      "New Era": {
+        "id": "500016",
+        "price": 300000,
+        "stock": 50,
+        "type": "baseball cap",
+        "unit": "pcs"
+      },
+      "Stetson": {
+        "id": "500017",
+        "price": 500000,
+        "stock": 30,
+        "type": "cowboy hat",
+        "unit": "pcs"
+      },
+      "Brixton": {
+        "id": "500018",
+        "price": 400000,
+        "stock": 39,
+        "type": "fedora hat",
+        "unit": "pcs"
+      }
     },
-    "Hat": {
-        "Brand": {
-            "New Era": {
-                "id": "500016",
-                "price": 300000,
-                "stock": 50,
-                "type": "baseball cap",
-                "unit": "pcs"
-            },
-            "Stetson": {
-                "id": "500017",
-                "price": 500000,
-                "stock": 30,
-                "type": "cowboy hat",
-                "unit": "pcs"
-            },
-            "Brixton": {
-                "id": "500018",
-                "price": 400000,
-                "stock": 39,
-                "type": "fedora hat",
-                "unit": "pcs"
-            }
-        },
-        "description": "A head covering worn for various purposes, including protection from the sun and fashion.",
-        "category": "clothing"
+    "description": "A head covering worn for various purposes, including protection from the sun and fashion.",
+    "category": "clothing"
+  },
+  "Watch": {
+    "Brand": {
+      "Rolex": {
+        "id": "500019",
+        "price": 50000000,
+        "stock": 10,
+        "type": "luxury watch",
+        "unit": "pcs"
+      },
+      "Casio": {
+        "id": "500020",
+        "price": 200000,
+        "stock": 50,
+        "type": "digital watch",
+        "unit": "pcs"
+      },
+      "Seiko": {
+        "id": "500021",
+        "price": 1000000,
+        "stock": 20,
+        "type": "automatic watch",
+        "unit": "pcs"
+      }
     },
-    "Watch": {
-        "Brand": {
-            "Rolex": {
-                "id": "500019",
-                "price": 50000000,
-                "stock": 10,
-                "type": "luxury watch",
-                "unit": "pcs"
-            },
-            "Casio": {
-                "id": "500020",
-                "price": 200000,
-                "stock": 50,
-                "type": "digital watch",
-                "unit": "pcs"
-            },
-            "Seiko": {
-                "id": "500021",
-                "price": 1000000,
-                "stock": 20,
-                "type": "automatic watch",
-                "unit": "pcs"
-            }
-        },
-        "description": "A timekeeping device worn on the wrist, often used as a fashion accessory.",
-        "category": "clothing"
+    "description": "A timekeeping device worn on the wrist, often used as a fashion accessory.",
+    "category": "clothing"
+  },
+  "Fan": {
+    "Brand": {
+      "LG": {
+        "id": "444001",
+        "price": 120000,
+        "stock": 21,
+        "type": "ceiling fan",
+        "unit": "pcs"
+      },
+      "Samsung": {
+        "id": "444002",
+        "price": 150000,
+        "stock": 15,
+        "type": "table fan",
+        "unit": "pcs"
+      },
+      "Panasonic": {
+        "id": "444003",
+        "price": 100000,
+        "stock": 30,
+        "type": "standing fan",
+        "unit": "pcs"
+      }
     },
-    "Fan": {
-        "Brand": {
-            "LG": {
-                "id": "444001",
-                "price": 120000,
-                "stock": 21,
-                "type": "ceiling fan",
-                "unit": "pcs"
-            },
-            "Samsung": {
-                "id": "444002",
-                "price": 150000,
-                "stock": 15,
-                "type": "table fan",
-                "unit": "pcs"
-            },
-            "Panasonic": {
-                "id": "444003",
-                "price": 100000,
-                "stock": 30,
-                "type": "standing fan",
-                "unit": "pcs"
-            }
-        },
-        "description": "A device that creates a flow of air for cooling or ventilation.",
-        "category": "electricity"
+    "description": "A device that creates a flow of air for cooling or ventilation.",
+    "category": "electricity"
+  },
+  "Rice": {
+    "Brand": {
+      "Basmati": {
+        "id": "100001",
+        "price": 22000,
+        "stock": 100,
+        "type": "long grain",
+        "unit": "kg"
+      },
+      "Jasmine": {
+        "id": "100002",
+        "price": 30000,
+        "stock": 80,
+        "type": "aromatic",
+        "unit": "kg"
+      },
+      "Sushi": {
+        "id": "100003",
+        "price": 60000,
+        "stock": 50,
+        "type": "short grain",
+        "unit": "kg"
+      }
     },
-    "Rice": {
-        "Brand": {
-            "Basmati": {
-                "id": "100001",
-                "price": 22000,
-                "stock": 100,
-                "type": "long grain",
-                "unit": "kg"
-            },
-            "Jasmine": {
-                "id": "100002",
-                "price": 30000,
-                "stock": 80,
-                "type": "aromatic",
-                "unit": "kg"
-            },
-            "Sushi": {
-                "id": "100003",
-                "price": 60000,
-                "stock": 50,
-                "type": "short grain",
-                "unit": "kg"
-            }
-        },
-        "description": "A staple food made from the seeds of the rice plant.",
-        "category": "food"
+    "description": "A staple food made from the seeds of the rice plant.",
+    "category": "food"
+  },
+  "Paracetamol": {
+    "Brand": {
+      "Tylenol": {
+        "id": "110001",
+        "price": 20000,
+        "stock": 200,
+        "type": "pain reliever",
+        "unit": "strip"
+      },
+      "Panadol": {
+        "id": "110002",
+        "price": 18000,
+        "stock": 140,
+        "type": "fever reducer",
+        "unit": "strip"
+      },
+      "Calpol": {
+        "id": "110003",
+        "price": 22000,
+        "stock": 100,
+        "type": "children's medicine",
+        "unit": "strip"
+      }
     },
-    "Paracetamol": {
-        "Brand": {
-            "Tylenol": {
-                "id": "110001",
-                "price": 20000,
-                "stock": 200,
-                "type": "pain reliever",
-                "unit": "strip"
-            },
-            "Panadol": {
-                "id": "110002",
-                "price": 18000,
-                "stock": 150,
-                "type": "fever reducer",
-                "unit": "strip"
-            },
-            "Calpol": {
-                "id": "110003",
-                "price": 22000,
-                "stock": 100,
-                "type": "children's medicine",
-                "unit": "strip"
-            }
-        },
-        "description": "A medication used to treat pain and fever.",
-        "category": "medicine"
+    "description": "A medication used to treat pain and fever.",
+    "category": "medicine"
+  },
+  "Petrol": {
+    "Brand": {
+      "Shell": {
+        "id": "220001",
+        "price": 15000,
+        "stock": 5000,
+        "type": "unleaded",
+        "unit": "liter"
+      },
+      "BP": {
+        "id": "220002",
+        "price": 14000,
+        "stock": 3970,
+        "type": "premium",
+        "unit": "liter"
+      },
+      "Exxon": {
+        "id": "220003",
+        "price": 16000,
+        "stock": 3000,
+        "type": "diesel",
+        "unit": "liter"
+      }
     },
-    "Petrol": {
-        "Brand": {
-            "Shell": {
-                "id": "220001",
-                "price": 15000,
-                "stock": 5000,
-                "type": "unleaded",
-                "unit": "liter"
-            },
-            "BP": {
-                "id": "220002",
-                "price": 14000,
-                "stock": 3970,
-                "type": "premium",
-                "unit": "liter"
-            },
-            "Exxon": {
-                "id": "220003",
-                "price": 16000,
-                "stock": 3000,
-                "type": "diesel",
-                "unit": "liter"
-            }
-        },
-        "description": "A fuel used in internal combustion engines.",
-        "category": "fuel"
+    "description": "A fuel used in internal combustion engines.",
+    "category": "fuel"
+  },
+  "Hammer": {
+    "Brand": {
+      "Stanley": {
+        "id": "300001",
+        "price": 230000,
+        "stock": 50,
+        "type": "claw hammer",
+        "unit": "pcs"
+      }
     },
-    "Hammer": {
-        "Brand": {
-            "Stanley": {
-                "id": "300001",
-                "price": 230000,
-                "stock": 50,
-                "type": "claw hammer",
-                "unit": "pcs"
-            }
-        },
-        "description": "A tool used for pounding or extracting nails.",
-        "category": "tools"
+    "description": "A tool used for pounding or extracting nails.",
+    "category": "tools"
+  },
+  "Sofa": {
+    "Brand": {
+      "Ikea": {
+        "id": "311001",
+        "price": 2000000,
+        "stock": 10,
+        "type": "sectional sofa",
+        "unit": "pcs"
+      }
     },
-    "Sofa": {
-        "Brand": {
-            "Ikea": {
-                "id": "311001",
-                "price": 2000000,
-                "stock": 10,
-                "type": "sectional sofa",
-                "unit": "pcs"
-            }
-        },
-        "description": "A comfortable seating furniture for multiple people.",
-        "category": "furniture"
+    "description": "A comfortable seating furniture for multiple people.",
+    "category": "furniture"
+  },
+  "Lamp": {
+    "Brand": {
+      "Philips": {
+        "id": "444004",
+        "price": 80000,
+        "stock": 25,
+        "type": "table lamp",
+        "unit": "pcs"
+      }
     },
-    "Lamp": {
-        "Brand": {
-            "Philips": {
-                "id": "444004",
-                "price": 80000,
-                "stock": 25,
-                "type": "table lamp",
-                "unit": "pcs"
-            }
-        },
-        "description": "A device that produces light.",
-        "category": "electricity"
+    "description": "A device that produces light.",
+    "category": "electricity"
+  },
+  "Laptop": {
+    "Brand": {
+      "Dell": {
+        "id": "444005",
+        "price": 10000000,
+        "stock": 10,
+        "type": "gaming laptop",
+        "unit": "pcs"
+      },
+      "HP": {
+        "id": "444006",
+        "price": 8000000,
+        "stock": 15,
+        "type": "business laptop",
+        "unit": "pcs"
+      },
+      "Apple": {
+        "id": "444007",
+        "price": 15000000,
+        "stock": 5,
+        "type": "MacBook",
+        "unit": "pcs"
+      }
     },
-    "Laptop": {
-        "Brand": {
-            "Dell": {
-                "id": "444005",
-                "price": 10000000,
-                "stock": 10,
-                "type": "gaming laptop",
-                "unit": "pcs"
-            },
-            "HP": {
-                "id": "444006",
-                "price": 8000000,
-                "stock": 15,
-                "type": "business laptop",
-                "unit": "pcs"
-            },
-            "Apple": {
-                "id": "444007",
-                "price": 15000000,
-                "stock": 5,
-                "type": "MacBook",
-                "unit": "pcs"
-            }
-        },
-        "description": "A portable computer for work and entertainment.",
-        "category": "electricity"
+    "description": "A portable computer for work and entertainment.",
+    "category": "electricity"
+  },
+  "Smartphone": {
+    "Brand": {
+      "Samsung": {
+        "id": "444008",
+        "price": 8000000,
+        "stock": 20,
+        "type": "Galaxy S series",
+        "unit": "pcs"
+      },
+      "Apple": {
+        "id": "444009",
+        "price": 9000000,
+        "stock": 15,
+        "type": "iPhone 11",
+        "unit": "pcs"
+      },
+      "OnePlus": {
+        "id": "444010",
+        "price": 6000000,
+        "stock": 25,
+        "type": "OnePlus Nord",
+        "unit": "pcs"
+      }
     },
-    "Smartphone": {
-        "Brand": {
-            "Samsung": {
-                "id": "444008",
-                "price": 8000000,
-                "stock": 20,
-                "type": "Galaxy S series",
-                "unit": "pcs"
-            },
-            "Apple": {
-                "id": "444009",
-                "price": 9000000,
-                "stock": 15,
-                "type": "iPhone 11",
-                "unit": "pcs"
-            },
-            "OnePlus": {
-                "id": "444010",
-                "price": 6000000,
-                "stock": 25,
-                "type": "OnePlus Nord",
-                "unit": "pcs"
-            }
-        },
-        "description": "A mobile device with advanced features for communication and entertainment.",
-        "category": "electricity"
+    "description": "A mobile device with advanced features for communication and entertainment.",
+    "category": "electricity"
+  },
+  "Bread": {
+    "Brand": {
+      "Wonder": {
+        "id": "100004",
+        "price": 20000,
+        "stock": 100,
+        "type": "white bread",
+        "unit": "pcs"
+      },
+      "Nature's Own": {
+        "id": "100005",
+        "price": 25000,
+        "stock": 70,
+        "type": "whole wheat bread",
+        "unit": "pcs"
+      },
+      "Dave's Killer Bread": {
+        "id": "100006",
+        "price": 30000,
+        "stock": 46,
+        "type": "multigrain bread",
+        "unit": "pcs"
+      }
     },
-    "Bread": {
-        "Brand": {
-            "Wonder": {
-                "id": "100004",
-                "price": 20000,
-                "stock": 100,
-                "type": "white bread",
-                "unit": "pcs"
-            },
-            "Nature's Own": {
-                "id": "100005",
-                "price": 25000,
-                "stock": 77,
-                "type": "whole wheat bread",
-                "unit": "pcs"
-            },
-            "Dave's Killer Bread": {
-                "id": "100006",
-                "price": 30000,
-                "stock": 50,
-                "type": "multigrain bread",
-                "unit": "pcs"
-            }
-        },
-        "description": "A staple food made from flour and water, usually baked.",
-        "category": "food"
+    "description": "A staple food made from flour and water, usually baked.",
+    "category": "food"
+  },
+  "Headphones": {
+    "Brand": {
+      "Sony": {
+        "id": "444011",
+        "price": 1200000,
+        "stock": 30,
+        "type": "over-ear headphones",
+        "unit": "pcs"
+      },
+      "Bose": {
+        "id": "444012",
+        "price": 2000000,
+        "stock": 20,
+        "type": "noise-cancelling headphones",
+        "unit": "pcs"
+      },
+      "Sennheiser": {
+        "id": "444013",
+        "price": 180000,
+        "stock": 25,
+        "type": "wireless headphones",
+        "unit": "pcs"
+      }
     },
-    "Headphones": {
-        "Brand": {
-            "Sony": {
-                "id": "444011",
-                "price": 1200000,
-                "stock": 30,
-                "type": "over-ear headphones",
-                "unit": "pcs"
-            },
-            "Bose": {
-                "id": "444012",
-                "price": 2000000,
-                "stock": 20,
-                "type": "noise-cancelling headphones",
-                "unit": "pcs"
-            },
-            "Sennheiser": {
-                "id": "444013",
-                "price": 180000,
-                "stock": 25,
-                "type": "wireless headphones",
-                "unit": "pcs"
-            }
-        },
-        "description": "A device worn on the head to listen to audio.",
-        "category": "electricity"
+    "description": "A device worn on the head to listen to audio.",
+    "category": "electricity"
+  },
+  "Cheese": {
+    "Brand": {
+      "Cheddar": {
+        "id": "100007",
+        "price": 50000,
+        "stock": 100,
+        "type": "hard cheese",
+        "unit": "kg"
+      },
+      "Mozzarella": {
+        "id": "100008",
+        "price": 60000,
+        "stock": 80,
+        "type": "soft cheese",
+        "unit": "kg"
+      },
+      "Brie": {
+        "id": "100009",
+        "price": 80000,
+        "stock": 50,
+        "type": "soft cheese",
+        "unit": "kg"
+      }
     },
-    "Cheese": {
-        "Brand": {
-            "Cheddar": {
-                "id": "100007",
-                "price": 50000,
-                "stock": 100,
-                "type": "hard cheese",
-                "unit": "kg"
-            },
-            "Mozzarella": {
-                "id": "100008",
-                "price": 60000,
-                "stock": 80,
-                "type": "soft cheese",
-                "unit": "kg"
-            },
-            "Brie": {
-                "id": "100009",
-                "price": 80000,
-                "stock": 50,
-                "type": "soft cheese",
-                "unit": "kg"
-            }
-        },
-        "description": "A dairy product made from milk, often used in cooking and as a snack.",
-        "category": "food"
-    }
+    "description": "A dairy product made from milk, often used in cooking and as a snack.",
+    "category": "food"
+  }
 }
